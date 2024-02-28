@@ -8,4 +8,5 @@ maven
 sonar
 Jenkins
 bamboo
-k8s
+k8s     
+terraform
