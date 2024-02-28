@@ -6,3 +6,4 @@ dev
 docker
 maven
 sonar
+bamboo
