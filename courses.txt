@@ -8,3 +8,4 @@ maven
 sonar
 Jenkins
 bamboo
+k8s
